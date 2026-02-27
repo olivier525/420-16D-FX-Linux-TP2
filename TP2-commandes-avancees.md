@@ -34,7 +34,6 @@
 
 ---
 
-
 ## Consignes
 
 ## Mise en situation
@@ -78,25 +77,25 @@ L'équipe de développement vous demande d'analyser la structure des fichiers po
 **Question 1** - L'équipe cherche tous les fichiers de configuration Apache. Utilisez la commande `find` pour localiser tous les éléments nommés `apache.conf`.
 
 **Capture d'écran :**
-![Question 1](img/1.jpg)
+![Question 1](img/1.png)
 
 **Question 2** - Un développeur a perdu des fichiers de logs commençant par la lettre "E" (comme "Error.log", "Event.log"). Trouvez tous les fichiers commençant 
 par "E", en excluant les dossiers.
 
 **Capture d'écran :**
-![Question 2](img/2.jpg)
+![Question 2](img/2.png)
 
 **Question 3** *(2 points)* - L'équipe recherche des images de taille moyenne pour l'interface utilisateur. Trouvez tous les fichiers entre 200 et 260 kilo-octets, 
 avec l'extension `.png` et situés à une profondeur maximale de 3 niveaux.
 
 **Capture d'écran :**
-![Question 3](img/3.jpg)
+![Question 3](img/3.png)
 
 
 **Question 4** - Un audit de sécurité nécessite de trouver tous les fichiers contenant "admin" dans leur nom, sans distinction de casse.
 
 **Capture d'écran :**
-![Question 4](img/4.jpg)
+![Question 4](img/4.png)
 
 **Question 5** - Recherchez tous les fichiers commençant spécifiquement par "L" ou "S" suivi de "og" (comme "Log.txt", "Sog.conf"). Utilisez la notation avec 
 crochets `[]`.

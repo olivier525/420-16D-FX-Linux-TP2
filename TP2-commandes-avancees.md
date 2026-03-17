@@ -86,7 +86,8 @@ par "E", en excluant les dossiers.
 ![Question 2](img/2.jpg)
 
 **Question 3** *(2 points)* - L'équipe recherche des images de taille moyenne pour l'interface utilisateur. Trouvez tous les fichiers entre 200 et 260 kilo-octets, 
-avec l'extension `.jpg` et situés à une profondeur maximale de 3 niveaux.
+avec l'extension `.jpg` et situés à une profondeur maximale de 3 niveaux. 
+**Rien n'est trouvé avec JPG**
 
 **Capture d'écran :**
 ![Question 3](img/3.jpg)
